@@ -1,0 +1,6 @@
+version: '2'
+services:
+  task1:
+    image: 'arif/task1:latest'
+    ports:
+      - '8080:8080'
